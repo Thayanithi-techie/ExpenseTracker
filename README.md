@@ -12,12 +12,6 @@ A simple console-based Java app to track your daily expenses with description, a
 - Java (Core)
 - OOP, ArrayList, Scanner
 
-## 🏁 Run Instructions
-
-```bash
-javac ExpenseTracker.java
-java ExpenseTracker
-
 📌 Future Ideas
 -File save/load
 -Date filters
