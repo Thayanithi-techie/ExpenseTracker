@@ -13,8 +13,11 @@ A simple console-based Java app to track your daily expenses with description, a
 - OOP, ArrayList, Scanner
 
 📌 Future Ideas
+
 -File save/load
+
 -Date filters
+
 -Export to CSV
 
 ## 📷 Screenshot
